@@ -33,3 +33,4 @@ The most important and related samples:
         8, '0.028*"piece" + 0.022*"brick" + 0.015*"it" + 0.015*"great" + 0.014*"space"'), 
         9, '0.053*"war" + 0.016*"fighter" + 0.013*"mountain" + 0.010*"clone" + 0.009*"imperial"')
     The sample still has a few verbs that the libraries could bot detect to drop them out, so we have to do it in our data cleansing phase (e.g. "includes" and "clone").
+10. Face Detection: The small Python code uses Tensorflow and Keras to detect if a face is "front" or "side" with 90% accuracy rate just by having a really small dataset (100 front and 100 side data points)!
