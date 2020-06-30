@@ -8,3 +8,4 @@ The most important and related samples:
     ECON_460263E041_DataMiningForBusinessDec_S16o.pdf: Exam questions
     pumpitup.csv: Input dataset
     Data Mining Exam: My answers
+4. Data Science Exam: Visualizing the same problem in Data Mining Exam (including the R code). In addition I have run different ML models on the same data.
