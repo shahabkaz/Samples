@@ -1,5 +1,5 @@
 # Samples
-Some of my sample codes in R, SAS, and Python.
+Some of my sample codes in R and Python.
 
 The most important and related samples:
 1. Advanced Marketing Research Exam (including the Excel file): Calculating revenues and retention rate with some input parameters in the attached exam.
