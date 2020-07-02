@@ -22,8 +22,8 @@ The most important and related samples:
 8. Churn Prediction: A sample of prediction of "churn". The sample file also includes the description of what has been done.
 9. LEGO project:
     * LEGO - Topic Modeling.pdf: Topic modeling on project descriptions. The words with their probabilities on each topic have been come on page 13. For example in 10 topics:
-        > topic #0: '0.037*"building" + 0.030*"city" + 0.028*"floor" + 0.025*"room" + 0.020*"roof"'), 
-        > topic #1: '0.052*"house" + 0.026*"robot" + 0.026*"table" + 0.017*"family" + 0.014*"bed"'), 
+        + topic #0: '0.037*"building" + 0.030*"city" + 0.028*"floor" + 0.025*"room" + 0.020*"roof"'), 
+        + topic #1: '0.052*"house" + 0.026*"robot" + 0.026*"table" + 0.017*"family" + 0.014*"bed"'), 
         topic #2: '0.040*"en" + 0.038*"de" + 0.037*"dir" + 0.018*"la" + 0.017*"le"'), 
         topic #3: '0.033*"red" + 0.025*"black" + 0.024*"blue" + 0.024*"white" + 0.020*"tree"'), 
         topic #4: '0.024*"minifigures"+ 0.020*"includes" + 0.017*"figure" + 0.016*"series" + 0.016*"mini"'), 
