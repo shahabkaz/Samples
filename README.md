@@ -34,6 +34,6 @@ The most important and related samples:
         topic #9: '0.053*"war" + 0.016*"fighter" + 0.013*"mountain" + 0.010*"clone" + 0.009*"imperial"')
     The sample still has a few verbs that the libraries could bot detect to drop them out, so we have to do it in our data cleansing phase (e.g. "includes" and "clone").
 10. Self-Control project:
-    MCA analysis: A sample R code to do MCA analysis (because of specific nature of our data samples - being 0 or 1) and get an overview about clustering the properties.
-    prediction models: Using scikit-learn (mostly) to implement different ML algorithms to predict how various properties can affect the food category for a consumer.
+    * MCA analysis: A sample R code to do MCA analysis (because of specific nature of our data samples - being 0 or 1) and get an overview about clustering the properties.
+    * prediction models: Using scikit-learn (mostly) to implement different ML algorithms to predict how various properties can affect the food category for a consumer.
 11. Face Detection: The small Python code uses Tensorflow and Keras to detect if a face is "front" or "side" with 90% accuracy rate just by having a really small dataset (100 front and 100 side data points)!
