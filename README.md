@@ -4,7 +4,7 @@ Some of my sample codes in R and Python.
 The most important and related samples:
 1. Advanced Marketing Research Exam (including the Excel file): Calculating revenues and retention rate with some input parameters in the attached exam.
     * Advanced Marketing Research Exam.pdf: Both questions and my answers (perfect grade)
-2. Applied Econometric Methods Exam (The codes have been run in EViews): It exam tests some important and practical statistical methods and concepts.
+2. Applied Econometric Methods Exam (The codes have been run in EViews): The exam tests some important and practical statistical methods and concepts.
     * Applied Econometric Methods.pdf: Questions
     * Econometric Exam: My answers (perfect grade)
 3. Bayesian Networks Exam (including the R code): Creating Bayesian Netowrks to analyzing the data we have in the attached exam.
