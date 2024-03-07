@@ -37,4 +37,4 @@ The most important and related samples:
     * The sample still has a few verbs that the libraries could bot detect to drop them out, so we have to do it in our data cleansing phase (e.g. "includes" and "clone").
 10. Machine Learning Exam.pdf: Applying ML algorithms to some problems e.g. detecting the hand written numbers, clustring ... ; but you see just answers.
 11. Churn Prediction: A sample of prediction of "churn". The sample file also includes the description of what has been done.
-12. 240305 - SageMaker - Novo.ipynb - ML Engineering: Develop and Deploy an ML model in SageMaker
+12. 240305 - SageMaker - ML Engineering: Develop and Deploy an ML model in SageMaker (AWS)
